@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazorise" Path="/Users/admin/.nuget/packages/blazorise/0.9.5.2/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="/Users/admin/.nuget/packages/blazorise.bootstrap/0.9.5.2/build/../staticwebassets/" />
+  <ContentRoot BasePath="/" Path="/Users/admin/RiderProjects/HighwayToHeaven/HighwayToHeaven/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/admin/RiderProjects/HighwayToHeaven/HighwayToHeaven/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
